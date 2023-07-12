@@ -7,6 +7,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzjunior&show_icons=true&theme=radical&bg_color=&langs_count=8&card_width=320" />
 </a>
+
 ## Tecnologias que tenho familiaridade
 
 <div style="display: inline_block"><br/>
