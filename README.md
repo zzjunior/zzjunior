@@ -8,7 +8,7 @@
   <img height=200 wight=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzjunior&show_icons=true&theme=radical&bg_color=&langs_count=8&card_width=320" />
 </a>
 
-## Tecnologias que tenho familiaridade
+## Tecnologias que conheço
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,13 +19,13 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </div>
 
-## Tecnologias que estou aprendendo
+## Estou aprendendo
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-## Tecnologias que tenho interesse
+## Quero aprender
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
