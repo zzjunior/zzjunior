@@ -5,7 +5,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zzjunior&show_icons=true&theme=tokyonight&bg_color=" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzjunior&show_icons=true&theme=radical&bg_color=&langs_count=8&card_width=320" />
+  <img height=200 wight=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzjunior&show_icons=true&theme=radical&bg_color=&langs_count=8&card_width=320" />
 </a>
 
 ## Tecnologias que tenho familiaridade
