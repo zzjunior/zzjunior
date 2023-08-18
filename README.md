@@ -1,9 +1,5 @@
 ## Olá! Eu sou Júnior Santos👋✨
 [![Portifólio](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://zzjunior.github.io) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siga_tj/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zj%C3%BAniorsantos/) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tjdesigng) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juniorvlogs230@gmail.com) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/zZjunior_) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KyKSquXg)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zzjunior&show_icons=true&theme=tokyonight&bg_color=" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 wight=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzjunior&show_icons=true&theme=radical&bg_color=&langs_count=8&card_width=320" />
 </a>
