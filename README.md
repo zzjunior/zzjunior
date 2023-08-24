@@ -7,7 +7,7 @@
   <img height=200 wight=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzjunior&show_icons=true&theme=radical&bg_color=&langs_count=8&card_width=320" />
 </a>
 
-## Technologies I use
+## Technologies I use/know.
 
 <div id="icones" style="display: inline_block"><br/>
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
