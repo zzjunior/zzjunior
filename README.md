@@ -1,6 +1,6 @@
 # Hello! I'm Junior Santos 👋✨
 #### I'm a programming student and technology enthusiast. I live in Natal/RN, Brazil. I'm 22 years old and currently graduating with a bachelor's degree in Science and Technology at UFRN (Federal University of Rio Grande do Norte).
-#### Currently, I work in the Customer Support and SDR (Sales Development Representative) field, serving as the bridge between the commercial and development teams at Teia CRM (a Brazilian technology startup). I also work as a freelancer, taking on Graphic Design and Web Development projects.
+#### I work in the Customer Support and SDR (Sales Development Representative) field, serving as the bridge between the commercial and development teams at Teia CRM (a Brazilian technology startup). I also work as a freelancer, taking on Graphic Design and Web Development projects.
 #### Here, you will see some personal projects that I have developed in my free time, as well as my study projects, since I am studying all the time 😅.
 ###### Onde me encontrar👇
 [![Portifólio](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=7f37c9&color=black)](https://zzjunior.github.io) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=7f37c9&color=black)
