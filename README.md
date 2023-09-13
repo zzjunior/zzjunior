@@ -8,7 +8,7 @@
 
 
 <div id="icones" style="display: inline_block"><br/>
-  <h2>Technologies I know</h2>
+  <h2>Technologies i know</h2>
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
