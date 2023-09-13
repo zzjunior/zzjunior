@@ -8,7 +8,7 @@
 
 
 <div id="icones" style="display: inline_block"><br/>
-  <h2>Technologies I know.</h2>
+  <h2>Technologies I know</h2>
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -27,7 +27,7 @@
 </div>
 
 <div style="display: inline_block">
-  <h2>Technologies I am learning/evolving.</h2>
+  <h2>I am learning or evolving</h2>
   <img height="35" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -36,7 +36,7 @@
 </div>
 
 <div style="display: inline_block"><br/>
-  <h2>Technologies I want to learn.</h2>
+  <h2>I want to learn</h2>
 <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
