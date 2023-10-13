@@ -40,7 +40,5 @@ Here, you will see some personal projects that I have developed in my free time,
 </div>
 <h2> </h2>
 <nav>
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 wight=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzjunior&show_icons=true&theme=radical&bg_color=&langs_count=8&card_width=320" />
-</a>
+  <img height=200 wight=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzjunior&layout=compact&show_icons=true&theme=radical&bg_color=&langs_count=8&card_width=320" />
 </nav>
