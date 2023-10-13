@@ -38,7 +38,3 @@ Here, you will see some personal projects that I have developed in my free time,
 <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
-<h2> </h2>
-<nav>
-  <img height=200 wight=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzjunior&layout=compact&show_icons=true&theme=radical&bg_color=&langs_count=8&card_width=320" />
-</nav>
