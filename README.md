@@ -3,7 +3,7 @@ Here, you will see some personal projects that I have developed in my free time,
 ###### Where to find me👇
 [![Portifólio](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=rgb(201,204,203)&color=black)](https://zzjunior.github.io) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=rgb(201,204,203)&color=black)
 ](https://www.instagram.com/siga_tj/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=rgb(201,204,203)&color=black)](https://www.linkedin.com/in/zj%C3%BAniorsantos/) [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=rgb(201,204,203)&color=black)](https://www.behance.net/tjdesigng) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=rgb(201,204,203)&color=black)](juniorvlogs230@gmail.com)
-
+<h5>
 <details>
   <summary>Technologies I know</summary>
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -34,4 +34,4 @@ Here, you will see some personal projects that I have developed in my free time,
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </details>
-
+</h5>
