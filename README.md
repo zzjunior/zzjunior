@@ -36,4 +36,4 @@ Here, you will see some personal projects that I have developed in my free time,
 </details>
 </h5>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzjunior&size_weight=0.5&count_weight=0.5&theme=transparent#gh-light-mode-only&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzjunior&size_weight=0.5&count_weight=0.5&theme=transparent&locale=pt-br&hide_border=true#gh-light-mode-only)
