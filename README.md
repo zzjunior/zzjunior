@@ -36,4 +36,11 @@ Here, you will see some personal projects that I have developed in my free time,
 </details>
 </h5>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzjunior&size_weight=0.5&count_weight=0.5&theme=transparent&locale=pt-br&hide_border=true#gh-light-mode-only)
+<h5>
+<details>
+  <summary>Most Used Languages</summary> 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzjunior&size_weight=0.5&count_weight=0.5&hide_title=true&theme=transparent&locale=pt-br&hide_border=true#gh-light-mode-only)
+
+</details>
+</h5>
