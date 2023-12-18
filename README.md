@@ -32,7 +32,7 @@ Here, you will see some personal projects that I have developed in my free time,
 </details>
 
 <details>
-  <summary>I want to learn</summary>
+  <summary>I want to learn</summary><br>
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </details>
