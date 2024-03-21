@@ -22,25 +22,19 @@ Here, you will see some personal projects that I have developed in my free time,
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress">
   </details>
 
-<details>
-  <summary>I am learning or evolving</summary>
+  I am learning or evolving
   <img height="35" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" />
   <img height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" />
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
   <img height="35" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
-</details>
 
-<details>
-  <summary>I want to learn</summary><br>
+  I want to learn</summary><br>
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" />
-</details>
 </h5>
 
-<h5>
-<details>
-  <summary>Most Used Languages</summary> 
+<h3>Most Used Languages</h3>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzjunior&size_weight=0.5&count_weight=0.5&hide_title=true&theme=transparent&locale=pt-br&hide_border=true#gh-light-mode-only)
 
