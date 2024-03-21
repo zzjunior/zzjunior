@@ -6,8 +6,9 @@ Here, you will see some personal projects that I have developed in my free time,
 
 <img src="https://github.com/zzjunior/zzjunior/assets/85785394/7c0f18a4-2e3e-4165-95e1-6f3ad7491447" width="320" />
 <h5>
-  <details>
-  <summary>Technologies I know</summary><br>
+
+Technologies I know<br>
+<div style="display:inline">
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="Visual Studio Code"/>
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git">
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5">
@@ -20,19 +21,23 @@ Here, you will see some personal projects that I have developed in my free time,
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Illustrator" title="Adobe Illustrator">
 <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" title="Adobe Premiere Pro">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress">
-  </details>
+  </div>
 
-  I am learning or evolving
+  I am learning or evolving<br>
+  <div style="display: inline">
   <img height="35" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" />
   <img height="35" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" />
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
   <img height="35" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" />
+  </div>
 
   I want to learn</summary><br>
+  <div style="display:inline">
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" />
-</h5>
+  </div>
+  </h5>
 
 <h3>Most Used Languages</h3>
   
