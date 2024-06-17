@@ -35,7 +35,7 @@ Here, you will see some personal projects that I have developed in my free time,
   <div style="display:inline;margin:1rem;margin-top:1rem"></br>
   <img height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/python-original.svg" title="Python" />
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" />
   </div>
   </h5>
 
